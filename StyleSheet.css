@@ -1,0 +1,15 @@
+﻿   tr{transition:all .25s ease-in-out}
+            tr:hover{background-color:yellowgreen;cursor: pointer}
+            .background{
+                background-color:dodgerblue;
+                margin-top:100px;
+            }
+            .inputlabel{
+                width:200px;
+            }
+            .header{
+                color:bisque;
+            }
+            .table1{
+                width:100%;
+            }
